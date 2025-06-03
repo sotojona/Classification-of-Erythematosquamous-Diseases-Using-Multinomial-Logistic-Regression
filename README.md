@@ -1,0 +1,1 @@
+# Classification-of-Erythematosquamous-Diseases-Using-Multinomial-Logistic-Regression
