@@ -4,7 +4,7 @@ author: "Jonathan Soto Botina"
 date: "2023-03-28"
 output: html_document
 ---
-Este es el documento de R para el TFG. 
+#Este es el documento de R para el TFG. 
 
  
 
@@ -256,7 +256,7 @@ data_test <- datosnum[-trainIndex1,]
 
 str(datosps)
 
-realizamos un diagrama de barras para ver mejor la variable dependiente
+#realizamos un diagrama de barras para ver mejor la variable dependiente
 
 plot(datosps$desease)
 table(datosps$desease)/nrow(datosps)
